@@ -1,3 +1,4 @@
+<img src='https://github-readme-stats.vercel.app/api?username=familyboat&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true' />
 # 个人简介
 
 ## 教育经历
@@ -45,14 +46,8 @@
 
 ## 所热爱的
 
-- TypeScript
-  1. 类型安全：通过静态类型检查，可以在编译阶段发现潜在的类型错误，减少运行时错误。
-  2. 代码可维护性：类型信息和接口定义有助于理解代码结构，提高代码的可读性和可维护性。
-- ESM。是 ES6 标准的一部分，自 2015 年发布以来，它已经成为 JavaScript 社区中广泛采用的标准。
-  1. 模块化。允许开发者将代码分割成小的、独立的模块，每个模块负责特定的功能。这有助于提高代码的可维护性和可复用性。
-  2. 静态导入、静态导出。静态导入和导出有助于在编译阶段进行优化和静态分析——依赖分析、代码分割、类型检查、摇树优化、代码格式化、风格检查。
-  3. 动态导入。可实现按需加载或者懒加载的功能。
-  4. 与 CommonJS 进行互操作。新工具应该优先支持 ESM，可同时兼容 CommonJS。
+- TypeScript。TypeScript 的静态类型检查以及 TypeScript 特有的特性（枚举、接口）能提供更好的开发体验。
+- ESM。ESM 是 JavaScript 的标准模块系统，现代浏览器、node（>=12）、bun、deno 均支持 ESM，使用 ESM 可确保代码在不同的运行环境中保持良好的兼容性。
 - 文档注释、测试。使用 jsdoc、tsdoc 编写文档注释；使用测试框架编写单元测试、集成测试。注重代码的可读性和可维护性。
 - Rust。正在学习 Rust，有编写 Rust 的经验。前端领域已经存在用 Rust 编写的高性能工具。
 - 开源。从开源社区中学习知识，也将所学回馈到开源社区。参与 [mdn/translated-content](https://github.com/mdn/translated-content) 的中文翻译，[deno_std](https://github.com/denoland/std) 的维护。

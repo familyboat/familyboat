@@ -20,25 +20,47 @@
 
 - 基于 UmiJS、Modern.js 开发框架，结合 Antd 开发管理平台；
 - 基于 vite、React、React Router、Axios、Antd 开发管理平台；
-- 可基于 Antd 封装组件；
+- 基于 Antd 封装组件；
 - 注重用户体验：是否能有效地获取信息（搜索功能），是否能高效地完成任务（以任务为导向地设计），是否有及时的反馈（状态变化），是否有危险操作二次确认；
 
 ### 定制化 h5 开发
 
 - 基于 vite 实现适合公司业务的前端代码部署方案；
 - 基于 pixi.js、three.js 、planck、cannon.js 开发游戏类型的 h5；
-- 基于提取字形、压缩图片和视频、懒加载、减少 HTTP 请求优化手段，将首页显示时间控制在 2s 以内；
+- 基于提取字形、压缩图片和视频、懒加载、减少 HTTP 请求这些优化手段，将首页显示时间控制在 2s 以内；
 - 基于 lottie 和 spine 在 h5 中引入动画效果；
 - 开发 vite 插件自动处理图片压缩环节；
 - 注重用户体验：对交互原型图中的内容提出相关的建议；开发过程中，小范围的试用，搜集用户反馈，针对影响用户体验的点进行优化；
 
 ## 知识技能
 
-- 能熟练使用 HTML、CSS、JavaScript、TypeScript，构建网页应用和命令行工具。
-- 能熟练使用 Linux 系统中基本的命令行工具，例如，cd、touch等。
-- 能熟练使用 React、React Router、Ant Design 组件库、Axios 构建 SPA，能基于 Ant Design 组件库封装新的组件。
-- 正在学习 Rust，有一定的使用经验：编写过简单文本处理的命令行工具。
-- 能熟练使用常见的页面加载性能优化方法。
+- HTML / CSS
+
+  熟悉常见的 HTML 标签及其语义；熟悉 CSS 的基本语法，能使用过渡和动画特性实现复杂的动画，能使用 flexbox 实现复杂的布局，能使用 scss 编写易维护的样式文件。
+
+- JavaScript / TypeScript
+
+  熟悉 es6 常见的语法；熟悉基本的类型系统，能使用接口和类型别名描述形状，能使用基本的类型和高级类型进行类型注解，能使用泛型提升代码的复用性，能在项目中引入 TypeScript。
+
+- React 相关的技术栈
+
+  熟悉 React 的基本概念，能使用常见的 hook 进行状态、生命周期管理和性能优化，能使用 React Router、Axios、Antd 组件库构建 SPA。
+
+- 页面加载性能优化
+
+  常见的优化方法有：资源压缩、懒加载、减少 HTTP 请求数、有效地利用缓存。
+
+- 文档注释、测试、linter、formatter
+
+  能使用常见的JsDoc 和 TsDoc 标签编写注释；能使用常见的测试框架（如vitest）编写单元测试和集成测试；能使用 eslint、prettier 为项目添加代码检查和代码格式化功能。
+
+- Git
+
+  熟悉 Git 的基本概念，能使用基本命令进行文件的版本管理、分支管理、远程管理和撤销操作；能使用 rebase、cherry-pick、stash等命令。
+
+- Rust
+
+  正在学习，有一定的使用经验。熟悉基本语法、所有权、生命周期、模式匹配等概念；编写过文本处理的命令行工具。
 
 ## 想做的工作
 
@@ -46,9 +68,8 @@
 
 ## 所热爱的
 
-- TypeScript。TypeScript 的静态类型检查以及 TypeScript 特有的特性（枚举、接口）能提供更好的开发体验。
+- TypeScript。TypeScript 的静态类型检查以及 TypeScript 特有的特性（枚举、接口、泛型等）能为开发者提供更好的开发体验。
 - ESM。ESM 是 JavaScript 的标准模块系统，现代浏览器、node（>=12）、bun、deno 均支持 ESM，使用 ESM 可确保代码在不同的运行环境中保持良好的兼容性。
-- 文档注释、测试。使用 jsdoc、tsdoc 编写文档注释；使用测试框架编写单元测试、集成测试。注重代码的可读性和可维护性。
-- Rust。正在学习 Rust，有编写 Rust 的经验。前端领域已经存在用 Rust 编写的高性能工具。
+- Rust。Rust 以内存安全、高性能著称，前端领域已有多款用 Rust 编写的高性能工具，未来的前端领域一定会涌现更多的用 Rust 编写的工具。
 - 开源。从开源社区中学习知识，也将所学回馈到开源社区。参与 [mdn/translated-content](https://github.com/mdn/translated-content) 的中文翻译，[deno_std](https://github.com/denoland/std) 的维护。
-- AI。使用 AI 辅助搜集信息。
+- AI。AI 的信息检索能力在某些方面甚至高于搜索引擎，从搜集信息的角度来说 AI 是个不错的选择。
